@@ -34,7 +34,7 @@ const Footer = () => {
             transition={{ duration: 0.8, delay: 0.5 }}
           >
             <motion.a
-              href="https://github.com/usuario"
+              href="https://github.com/mdelgadof1300"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white text-2xl"
@@ -44,7 +44,7 @@ const Footer = () => {
             </motion.a>
             
             <motion.a
-              href="https://linkedin.com/in/usuario"
+              href="https://www.linkedin.com/in/mdelgadof1300/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white text-2xl"
@@ -53,15 +53,7 @@ const Footer = () => {
               <FaLinkedin />
             </motion.a>
 
-            <motion.a
-              href="https://twitter.com/usuario"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-400 hover:text-white text-2xl"
-              whileHover={{ scale: 1.2, color: "#1DA1F2" }}
-            >
-              <FaTwitter />
-            </motion.a>
+          
           </motion.div>
         </div>
 

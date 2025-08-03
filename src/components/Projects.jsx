@@ -2,13 +2,7 @@ import { FaGithub } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 const projects = [
-  {
-    title: "Omnibus de México",
-    description: "Creación de la actual interfaz de Omnibus de México.",
-    link: "https://www.odm.com.mx",
-    technologies: ["HTML5", "TailwindCSS", "Bootstrap", "PHP", "PHPmyAdmin", "jQuery", "Google Analytics", "Google Tag Manager"],
-    github: "https://github.com/usuario/odm-project",
-  },
+  
   {
     title: "Omnibus de México",
     description: "Prototipo de nueva interfaz de Omnibus de México.",
@@ -34,7 +28,14 @@ const projects = [
     title: "MyCashless",
     description: "Integración de MercadoPago en la terminal de cobros.",
     link: "#",
-    technologies: ["Java", "Swift", "MercadoPago", "Stripe", "SQLDelight", "SQLiteHelper", "Android Studio", "Xcode"],
+    technologies: ["Java", "MercadoPago", "Android Studio"],
+    github: "https://github.com/usuario/proyecto-3",
+  },
+  {
+    title: "MyCashless",
+    description: "Integración de MyCashless en kioscos de autoservicio.",
+    link: "#",
+    technologies: ["Java", "Android Studio"],
     github: "https://github.com/usuario/proyecto-3",
   },
 ];

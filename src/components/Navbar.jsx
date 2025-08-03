@@ -32,7 +32,7 @@ const Navbar = () => {
     <nav className="navbar bg-gray-900 text-white fixed w-full z-10">
       <div className="container mx-auto px-4 flex items-center justify-between h-16">
         {/* Logo */}
-        <div className="text-2xl font-bold">Mi Portafolio</div>
+        <div className="text-2xl font-bold">¡Bienvenido!</div>
 
         {/* Menú en escritorio */}
         <div className="hidden md:flex space-x-6">

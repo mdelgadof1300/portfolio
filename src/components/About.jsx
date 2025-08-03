@@ -27,8 +27,8 @@ const About = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8, delay: 0.3, ease: "easeOut" }}
         >
-          ¡Hola! Soy un <span className="font-semibold">desarrollador de software</span> con una pasión por la creación de soluciones innovadoras y eficientes. 
-          Me especializo en el desarrollo web y móvil, utilizando tecnologías modernas como <span className="font-semibold">React, JavaScript, TypeScript, Node.js</span>, y frameworks avanzados para construir aplicaciones dinámicas y escalables.
+          ¡Hola! <br/>
+          Soy desarrollador de software con una fuerte pasión por crear soluciones tecnológicas innovadoras, eficientes y centradas en el usuario. Me especializo en desarrollo web y móvil, utilizando tecnologías modernas como <span className="font-semibold">React, JavaScript, TypeScript, Node.js, Android Studio y Xcode</span> para construir aplicaciones dinámicas, escalables y de alto rendimiento.
         </motion.p>
 
         <motion.p
@@ -37,8 +37,7 @@ const About = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8, delay: 0.5, ease: "easeOut" }}
         >
-          Mi enfoque es crear experiencias digitales fluidas y atractivas, centrándome en la optimización del rendimiento, el diseño intuitivo y la accesibilidad. 
-          Me encanta aprender y estar al día con las últimas tendencias en tecnología para ofrecer siempre las mejores soluciones.
+          Mi enfoque está en diseñar experiencias digitales intuitivas, accesibles y bien optimizadas. Me motiva mantenerme actualizado con las últimas tendencias tecnológicas y aplicar ese conocimiento en proyectos reales que generen impacto.
         </motion.p>
 
         <motion.p
@@ -47,8 +46,7 @@ const About = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8, delay: 0.7, ease: "easeOut" }}
         >
-          Cuando no estoy programando, disfruto explorando nuevas tecnologías, contribuyendo a proyectos open-source y compartiendo conocimiento con la comunidad. 
-          Siempre estoy en búsqueda de nuevos desafíos que me ayuden a crecer como profesional y a impactar positivamente en el mundo del desarrollo.
+          Fuera del código, disfruto explorar nuevas herramientas, colaborar en proyectos open source y compartir lo que aprendo con la comunidad. Siempre estoy abierto a nuevos retos que me impulsen a seguir creciendo como profesional y aportando valor en el mundo del desarrollo.
         </motion.p>
       </div>
     </div>
